@@ -1,7 +1,7 @@
 """
 Django settings for project_settings project.
 """
-
+ 
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
